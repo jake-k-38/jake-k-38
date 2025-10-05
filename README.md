@@ -1,5 +1,4 @@
 - 👀 I’m interested in protecting our critical infrastructure and empowering a secure workforce.
-- 🌱 I’m currently learning cyber security at George Mason University and I actively engage with the community through my student group GMUISG : https://gmuisg.org 
 - 🌐 I’m looking to collaborate on useful scripts to help simplify the duties of a system admin or cyber analyst.
 
 <!---
